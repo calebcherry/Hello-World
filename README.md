@@ -3,6 +3,8 @@
 
 ##Dev##
 [stackshare to see what people are using](http://stackshare.io/)
+###Agile/PM###
+
 ###Full Stack###
 [HTML, Ruby, JS](http://www.theodinproject.com/home)
 ###Python###
@@ -12,5 +14,5 @@
 ##IT##
 
 ##Business##
-
+[Open Source Startup info](https://startupclass.co)
 ##Life##
