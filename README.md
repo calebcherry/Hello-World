@@ -4,6 +4,8 @@
 ##Dev##
 [stackshare to see what people are using](http://stackshare.io/)
 ###Agile/PM###
+[Taiga PM platform](https://taiga.io/)
+[Pivotal Tracker PM platform](http://www.pivotaltracker.com/)
 
 ###Full Stack###
 [HTML, Ruby, JS](http://www.theodinproject.com/home)
