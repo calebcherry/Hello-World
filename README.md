@@ -49,3 +49,4 @@
 [Dev Docs](http://devdocs.io)
 [iTunes Redesign](http://interface.fh-potsdam.de/itunes/)
 [Awesome OSX CLI](https://github.com/herrbischoff/awesome-osx-command-line#files-and-folders)
+[GV Design Sprint](http://www.gv.com/sprint/)
