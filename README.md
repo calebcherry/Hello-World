@@ -26,6 +26,8 @@
 ##Design/Front End##
 [Frontend Handbook](http://www.frontendhandbook.com)
 [Prepros](https://prepros.io)
+[10 rules of best practice for responsive design](http://thenextweb.com/dd/2015/10/19/10-rules-of-best-practice-for-responsive-design/)
+[How to become an awesome designer in 365 days](http://thenextweb.com/dd/2015/08/30/how-to-become-an-awesome-designer-in-365-days/?ref=webdesignernews.com)
 
 ###Prototyping###
 [InVision App](http://www.invisionapp.com)
